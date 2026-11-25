@@ -1,0 +1,6 @@
+timeclock.html
+.timeclock-password
+.encrypted/
+.staticrypt.json
+SETUP-SUPABASE.md
+.DS_Store
